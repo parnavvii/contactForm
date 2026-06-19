@@ -6,7 +6,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.List;
 
 @RestController
-public class contactController {
+public class ContactController {
 
     @Autowired
     private ContactRepository repository;

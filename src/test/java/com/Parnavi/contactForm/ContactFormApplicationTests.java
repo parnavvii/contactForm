@@ -1,4 +1,4 @@
-package com.parnavi.contactform;
+package com.Parnavi.contactForm;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

@@ -1,4 +1,4 @@
-package com.Parnavi.contactForm;
+package com.parnavi.contactform;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
